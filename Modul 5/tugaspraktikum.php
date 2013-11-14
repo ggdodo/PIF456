@@ -19,8 +19,8 @@ if(isset($_GET['orderby'])){
 }
 ?>
 <th>
-				<td><a href='tg.php?orderby=nim&urut=<?=$urutbaru;?>'>Nim</a></td>
-				<td><a href='tg.php?orderby=nama&urut=<?=$urutbaru;?>'>Nama</a></td>
+				<td><a href='tugaspraktikum.php?orderby=nim&urut=<?=$urutbaru;?>'>Nim</a></td>
+				<td><a href='tugaspraktikum.php?orderby=nama&urut=<?=$urutbaru;?>'>Nama</a></td>
 				<td>Alamat</a></td>
 </th>
 				
